@@ -1,0 +1,7 @@
+{
+        "metrics":{
+            "queries":{
+                "fwupdated":"select deviceid from devices where configurations.[[firmwareupdatesmith]].status='Applied' and properties.reported.firmware.currentFwVersion='1.0.1'"
+            }
+        }
+    }
