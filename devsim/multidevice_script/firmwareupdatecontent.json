@@ -1,0 +1,11 @@
+{
+  "content":{
+      "deviceContent":{
+          "properties.desired.firmware":{
+              "fwVersion":"1.0.1",
+              "fwPackageURI":"https://MyPackage.uri",
+              "fwPackageCheckValue":"1234"
+           }
+       }
+    }
+}
